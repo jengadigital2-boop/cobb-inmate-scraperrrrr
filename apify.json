@@ -1,0 +1,10 @@
+{
+  "name": "cobb-inmate-scraper",
+  "version": "1.0",
+  "buildTag": "latest",
+  "env": {},
+  "defaultRunOptions": {
+    "memoryMbytes": 2048,
+    "timeoutSecs": 300
+  }
+}
